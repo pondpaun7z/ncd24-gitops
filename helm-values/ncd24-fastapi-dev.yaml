@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/pondpaun7z/ncd24-fastapi
-  tag: dev-87db7f5
+  tag: dev-a4e2245
   pullPolicy: Always
 probe:
   enabled: true
